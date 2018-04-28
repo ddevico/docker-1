@@ -1,17 +1,15 @@
-# docker-1
-42 - Project #24
+## docker-1
 
-## Résumé
-Docker-1 a pour but de faire manipuler docker et docker-machine, la base pour comprendre le principe de la containerisation de services.
+Docker-1 aims to manipulate docker and docker-machine, the basis for understanding the principle of containerization of services.
 
-## Partie Obligatoire
+## Required Part
 
-Voir le pdf pour les exercices.
+See the pdf for the exercises.
 
 ## Documentation
 
-• [L’excellente documentation officielle de Docker](https://docs.docker.com/)  
-• [Le Registry public de Docker](https://hub.docker.com/)  
-• [Le Github officiel de Docker qui contient moults projets en devenir](https://github.com/docker)  
-• [Le blog de Jessie Frazelle, ex main contributor sur Docker](https://blog.jessfraz.com/)  
-• [Son Github avec pleins de bonnes idées](https://github.com/jessfraz)  
+• [The excellent official Docker documentation] (https://docs.docker.com/)
+• [The Public Registry of Docker] (https://hub.docker.com/)
+• [The official Github of Docker which contains many upcoming projects] (https://github.com/docker)
+• [Jessie Frazelle's blog, ex main contributor on Docker] (https://blog.jessfraz.com/)
+• [His Github with lots of good ideas] (https://github.com/jessfraz)
